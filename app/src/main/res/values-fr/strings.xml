@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="InvalidError">Erreur: Les inputs sont vide ou pas numerique</string>
+    <string name="InvalidErrorDivideByZero">On ne peut pas diviser par zero!</string>
+    <string name="add">Ajouter</string>
+    <string name="clearFields">Vider les champs</string>
+    <string name="divide">Diviser</string>
+    <string name="enter_hint">entrer un numero</string>
+    <string name="multiply">multiplier</string>
+    <string name="resultHint">Votre resultat montra ici</string>
+    <string name="subtract">soustraire</string>
+</resources>

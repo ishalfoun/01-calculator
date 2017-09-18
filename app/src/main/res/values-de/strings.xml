@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="InvalidError">Fehler: Eingabe ist leer oder nichtnumerisch</string>
+    <string name="InvalidErrorDivideByZero">Division durch Null nicht möglich</string>
+    <string name="add">Plus</string>
+    <string name="clearFields">Felder leeren</string>
+    <string name="divide">Dividiert</string>
+    <string name="enter_hint">Geben Sie eine Zahl ein</string>
+    <string name="multiply">Mal</string>
+    <string name="resultHint">Die Antwort wird hier stehen</string>
+    <string name="subtract">Minus</string>
+</resources>
